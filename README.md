@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Santhosh_kumar [![Linkedin Badge](https://img.shields.io/badge/-Santhosh_kumar-blue?style=round-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/santhosh-kumar-katta)](www.linkedin.com/in/santhosh-kumar-katta) 
+
+
+### Hi there 👋
+
+- 💼 I am a **Backend Engineer**
+- 💻 I also do **Competitive Programming.**
+- 💬 Ask me about **Python**, **SQL**, **Webscraping**, **Databases**, **FastAPI** and **Django**.
+- 😄 Pronouns: He/Him
+- 💬 Languages/Technologies: **Python3 | Django | SQL | FastAPI | HTML | CSS | jQuery**
+- ⚡ Fun fact: I lift weights at the gym and popcorn buckets at the movies.
+- 📫 How to reach me: You can know more about me at [My Portfolio](https://bittuo7.github.io).
