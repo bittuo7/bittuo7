@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 💼 I am a **Backend Engineer**
+- 💼 I am a **Software Engineer**
 - 💻 I also do **Competitive Programming.**
 - 💬 Ask me about **Python**, **SQL**, **Webscraping**, **Databases**, **FastAPI** and **Django**.
 - 😄 Pronouns: He/Him
