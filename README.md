@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 💼 I am a **Software Engineer**
+- 💼 I am a **AI Engineer**
 - 💻 I also do **Competitive Programming.**
-- 💬 Ask me about **Python**, **SQL**, **Webscraping**, **Databases**, **FastAPI** and **Django**.
+- 💬 Ask me about **Python**, **AI**, **SQL**, **Webscraping**, **Databases**, **FastAPI** and **Django**.
 - 😄 Pronouns: He/Him
-- 💬 Languages/Technologies: **Python3 | Django | SQL | FastAPI | HTML | CSS | jQuery**
+- 💬 Languages/Technologies: **Python3 | AI | ML | Django | SQL | FastAPI | HTML | CSS | jQuery**
 - ⚡ Fun fact: I lift weights at the gym and popcorn buckets at the movies.
 - 📫 How to reach me: You can know more about me at [My Portfolio](https://bittuo7.github.io).
